@@ -1,3 +1,3 @@
 # Portfolio_Small_Developer
 
-https://hubertloetsch.pages.dev live
+https://hubertloetsch.com live
